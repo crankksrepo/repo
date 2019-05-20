@@ -1,0 +1,45 @@
+<package>
+	<id>com.crankk.dlgmemorinjected_11.3.1_iphoneos-arm</id>
+	<name>DLGMI</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>...</shortDescription>
+	<descriptionlist>
+		<description>....</description>
+		<description>...</description>
+		<description><![CDATA[
+		...<br/> 
+		...
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>...</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>...</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>....</change>
+		<change>....</change>
+		<change>....</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
