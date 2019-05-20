@@ -1,0 +1,23 @@
+<package>
+	<id>com.crankk.dlgmemorinjected_11.3.1_iphoneos-arm</id>
+	<name>DLGMemor Injected</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Requires iOS 11.3.1 - 12.0.1 and below..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
