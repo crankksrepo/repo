@@ -1,0 +1,14 @@
+Package: com.crankk.dlgmemorinjected
+Version: 0.1
+Section: Tweaks
+Maintainer: Crankk
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.crankk.dlgmemorinjected.deb
+Size: 196
+MD5sum: 20C6E6B1D51D0C2D22BE495C2B6D9C19
+Description: game hacker
+Name: DLGMI
+Author: Crankk
+Depiction: https://crankksrepo.github.io/repo/depictions/?p=com.crankk.dlgmemorinjected
+
